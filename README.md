@@ -1,5 +1,5 @@
 # SkyInsight
-SkyInsight is a  Weather application that provides real-time weather information for your area. It allows you to view the current temperature, wind speed, humidity, and cloud cover. Additionally, you can search for weather data by city name. 
+SkyInsight is a web application that provides real-time weather information for your area. It allows you to view the current temperature, wind speed, humidity, and cloud cover. Additionally, you can search for weather data by city name. 
 # Features
 
 1. Location-based Weather: Upon loading the website, the app will request your location to provide weather information specific to your area.
