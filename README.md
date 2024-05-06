@@ -1,5 +1,5 @@
-# Weather-App
-Weather-App is a web application that provides real-time weather information for your area. It allows you to view the current temperature, wind speed, humidity, and cloud cover. Additionally, you can search for weather data by city name. 
+# SkyInsight
+SkyInsight is a  Weather application that provides real-time weather information for your area. It allows you to view the current temperature, wind speed, humidity, and cloud cover. Additionally, you can search for weather data by city name. 
 # Features
 
 1. Location-based Weather: Upon loading the website, the app will request your location to provide weather information specific to your area.
@@ -29,7 +29,7 @@ Contributions
 Contributions to the Weather-App project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the GitHub repository.
 # License
 
-Weather-App is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
+SkyInsight is created by me , which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
 # Acknowledgements
 
 1. I would like to thanks love Babbar for his Web Dev Course. His Course made all this possible.
